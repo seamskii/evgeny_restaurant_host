@@ -209,6 +209,12 @@ const CustomersList = ({
           finalCheckEndTimeARR={finalCheckEndTimeARR}
         />
       </div>
+      <div style={{ margin: "10px" }}>
+        {" "}
+        <a href="https://github.com/seamskii/evgeny_restaurant_host/tree/main/src">
+          <h1 style={{ color: "dodgerblue" }}>GitHub</h1>
+        </a>
+      </div>
 
       <Modal
         title="Basic Modal"

@@ -1,0 +1,28 @@
+.table-main {
+  display: flex;
+  flex-direction: row;
+  margin-top: 20px;
+  justify-content: center;
+  height: 100%;
+}
+
+.table {
+  display: block;
+  width: auto;
+  height: 65px;
+  padding: 20px 0px 5px 5px;
+  border: 1px solid white;
+}
+.each-table {
+  margin-left: 80px;
+}
+.red-table {
+  display: inline-block;
+  margin-top: -25px;
+}
+.time-picker {
+  margin-left: 40px;
+}
+.orange-table {
+  display: inline-block;
+}
